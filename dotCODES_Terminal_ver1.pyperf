@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>9747c4b5-833a-458f-837b-e77fa54a1a9a</TargetProject>
+    <FriendlyName>dotCODES_Terminal_ver1</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Stacy_Staples\AppData\Local\Temp\dotCODES_Terminal_ver1_20150926.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
